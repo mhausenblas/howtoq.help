@@ -8,6 +8,10 @@ enable_copy_code_button: true
 # Color scheme
 color_scheme: dark
 
+# Extend theme
+plugins:
+- jekyll-target-blank
+
 # Search settings
 search_enabled: true
 search:
