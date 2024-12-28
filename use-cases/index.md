@@ -1,7 +1,8 @@
 ---
 title: Use Cases
 layout: default
-nav_order: 4
+nav_order: 3
+description: "How to Q: Use Cases"
 has_children: true
 ---
 

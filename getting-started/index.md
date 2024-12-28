@@ -1,7 +1,8 @@
 ---
 title: Getting Started
 layout: default
-nav_order: 3
+nav_order: 2
+description: "How to Q: Getting Started"
 has_children: true
 ---
 

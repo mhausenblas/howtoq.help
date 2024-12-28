@@ -6,7 +6,7 @@ description: "How to Q: Home"
 permalink: /
 ---
 
-# How to Q: The Amazon Q mentor
+# How to Q
 
 Welcome to your comprehensive guide for Amazon Q. This is your one-stop hub
 for _How_ and _Why_ to use Amazon Q.
@@ -38,7 +38,6 @@ optimizing AWS resources, and creating data engineering pipelines.
 organization. Leveraging your own company's content, data, and systems, Amazon
 Q Business makes it easier to get you fast, relevant answers to pressing questions,
 solve problems, generate content, and take actions on your behalf.
-
 
 Recent additions
 {: .label .label-green }
