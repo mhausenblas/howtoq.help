@@ -11,9 +11,12 @@ permalink: /
 Welcome to your comprehensive guide for Amazon Q. This is your one-stop hub
 for _How_ and _Why_ to use Amazon Q.
 
-<iframe width="420" height="315" 
-        src="https://youtu.be/frOJDGG0XdsJ" 
-        frameborder="0"
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/frOJDGG0Xds?si=raZtks_hpj-yq3nv" 
+        title="Amazon Q overview" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
         allowfullscreen>
 </iframe>
 
