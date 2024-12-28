@@ -20,9 +20,7 @@ has_children: true
 Here we discuss practical examples and scenarios for using Amazon Q.
 [Share](mailto:mhausenblas@icloud.com) yours!
 
-## Categories
-
-### Development
+## Development
 
 In the software development process:
 
@@ -33,7 +31,9 @@ In the software development process:
 - Testing strategies
 - Documentation
 
-### Infrastructure
+## Infrastructure
+
+If you are in looking for use cases around AWS infrastructure management:
 
 - Architecture review
 - Service selection
@@ -43,14 +43,19 @@ In the software development process:
 - Observability
   - Example: [Investigate and remediate operational issues with Amazon Q Developer](https://aws.amazon.com/blogs/aws/investigate-and-remediate-operational-issues-with-amazon-q-developer/)
 
-### Security
+## Security
+
+Use cases in the security domain:
 
 - Security assessment
 - Compliance checking
 - IAM policy review
 - Security monitoring
 
-### Business Operations
+## Business Operations
+
+For business operations, here are a few use cases:
+
 - Cost analysis
 - Resource planning
 - Process optimization
