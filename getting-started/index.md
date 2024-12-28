@@ -5,7 +5,7 @@ nav_order: 3
 has_children: true
 ---
 
-# Getting Started with Amazon Q
+# Getting Started
 
 Learn the fundamentals of using Amazon Q effectively.
 
