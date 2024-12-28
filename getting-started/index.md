@@ -19,49 +19,40 @@ has_children: true
 
 Learn the fundamentals of using Amazon Q effectively.
 
-## What is Amazon Q?
-
-Amazon Q is an AI-powered assistant that helps with:
-
-* AWS infrastructure management
-* Application development
-* Migration of legacy environments and applications
-* Security and compliance
-* Cost optimization
-* Business intelligence
-
 ## Key features
 
 Amazon Q has the following key features:
 
-1. Natural Language Understanding
+1. Natural language understanding. This means you can:
    - Ask questions in plain English
    - Get contextual responses
-   - Follow-up questions supported
+   - Follow up with questions to refine responses
 
-2. Code Assistance
+2. Code Assistance. This includes:
    - Code review and optimization
-   - Bug detection
+   - Bug detection including explanation
    - Best practice recommendations
 
-3. Infrastructure Management
+3. Infrastructure Management. For:
    - Architecture review
    - Service selection guidance
    - Configuration assistance
 
-4. Security & Compliance
+4. Security & Compliance. Supports:
    - Security assessment
    - Compliance checking
    - Best practice validation
 
-## Getting Access
+## Hands-on
 
-1. AWS Console Access
-   - Requirements
-   - Enabling Amazon Q
-   - Permission setup
+Make sure you understand the [pricing](https://aws.amazon.com/q/pricing/),
+first.
 
-2. First-Time Setup
-   - Configuration options
-   - Integration settings
-   - Customization
+1. Amazon Q Business
+   - [Get started via AWS console](https://us-east-1.console.aws.amazon.com/amazonq/home?region=us-east-1#welcome)
+   - TBD
+
+2. Amazon Q Developer
+   - [Download for Visual Studio Code, command line,
+     etc.](https://aws.amazon.com/q/developer/)
+   - TBD
