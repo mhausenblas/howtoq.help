@@ -9,34 +9,41 @@ has_toc: true
 # Use Cases
 
 Here we discuss practical examples and scenarios for using Amazon Q.
-Share yours!
+[Share](mailto:mhausenblas@icloud.com) yours!
 
 ## Categories
 
 ### Development
-* Code review and optimization
-* API implementation
-* Serverless development
-* Error handling
-* Testing strategies
+
+In the software development process:
+
+- Code review and optimization
+- API implementation
+- Serverless development
+- Error handling
+- Testing strategies
+- Documentation
 
 ### Infrastructure
-* Architecture review
-* Service selection
-* Migration planning
-* Performance optimization
-* Cost management
+
+- Architecture review
+- Service selection
+- Migration planning
+- Performance optimization
+- Cost management
+- Observability
+  - Example: [Investigate and remediate operational issues with Amazon Q Developer](https://aws.amazon.com/blogs/aws/investigate-and-remediate-operational-issues-with-amazon-q-developer/)
 
 ### Security
-* Security assessment
-* Compliance checking
-* IAM policy review
-* Security monitoring
-* Incident response
+
+- Security assessment
+- Compliance checking
+- IAM policy review
+- Security monitoring
 
 ### Business Operations
-* Cost analysis
-* Resource planning
-* Process optimization
-* Documentation
-* Training assistance
+- Cost analysis
+- Resource planning
+- Process optimization
+- Documentation
+- Training assistance
