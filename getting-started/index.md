@@ -45,8 +45,10 @@ Amazon Q has the following key features:
 
 ## Hands-on
 
-Make sure you understand the [pricing](https://aws.amazon.com/q/pricing/),
-first.
+{: .warning }
+Before you start using Amazon Q, make sure you understand the 
+[pricing](https://aws.amazon.com/q/pricing/), first. There is a free tier,
+however, you want to make sure your use case fits.
 
 1. Amazon Q Business
    - [Get started via AWS console](https://us-east-1.console.aws.amazon.com/amazonq/home?region=us-east-1#welcome)

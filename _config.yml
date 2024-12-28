@@ -1,5 +1,5 @@
 title: "How to Q"
-description: All things on How and Why to use Amazon Q
+description: How and Why to use Amazon Q
 remote_theme: just-the-docs/just-the-docs
 
 # Enable copy code button
@@ -23,3 +23,9 @@ search:
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+
