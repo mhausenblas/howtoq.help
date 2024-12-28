@@ -11,6 +11,12 @@ permalink: /
 Welcome to your comprehensive guide for Amazon Q. This is your one-stop hub
 for _How_ and _Why_ to use Amazon Q.
 
+<iframe width="420" height="315" 
+        src="https://youtu.be/frOJDGG0XdsJ" 
+        frameborder="0"
+        allowfullscreen>
+</iframe>
+
 So let's start with the basics. What is Amazon Q? It's a generative AI (GenAI)
 assistant with specialized capabilities for software developers, business 
 intelligence analysts, contact center employees, supply chain analysts, 
