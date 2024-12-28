@@ -28,14 +28,14 @@ permalink: /resources
 
 ## Community resources
 
-### Blog posts
+### Blog posts 📝
 
 - [Amazon Q Developer Tips: No.7 Generating better prompts](https://community.aws/content/2ptGK7gERvVEyV1n18aRjEmUWNi/amazon-q-developer-tips-no-7-generating-better-prompts)
 - [The Ultimate Cheat Sheet for Using Amazon Q Developer in Your IDE](https://community.aws/content/2eYoqeFRqaVnk900emsknDfzhfW/the-ultimate-cheat-sheet-for-using-amazon-q-developer-in-your-ide?lang=en)
 - [DIY personalization for Amazon Q Developer](https://it20.info/2024/10/diy-personalization-for-amazon-q-developer/)
 - [10 Tips on How to Effectively Prompt Amazon Q](https://dev.to/nat_ndlovu/10-tips-on-how-to-effectively-prompt-amazon-q-50k2)
 
-### Video
+### Videos 🎬
 
 re:Invent 2024
 {: .label }
