@@ -5,78 +5,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Amazon Q Persona Finder</title>
     <style>
-        :root {
-            --background: #ffffff;
-            --surface: #ffffff;
-            --primary: #2563eb;
-            --primary-hover: #1d4ed8;
-            --text: #1a1a1a;
-            --text-secondary: #666666;
-            --border: #e5e7eb;
-            --surface-secondary: #f8fafc;
-            --success: #22c55e;
-            --card-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
-
-        [data-theme="dark"] {
-            --background: #0f172a;
-            --surface: #1e293b;
-            --primary: #3b82f6;
-            --primary-hover: #2563eb;
-            --text: #f1f5f9;
-            --text-secondary: #cbd5e1;
-            --border: #334155;
-            --surface-secondary: #293548;
-            --success: #22c55e;
-            --card-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
             line-height: 1.6;
-            margin: 0;
+            background: #0f172a;
+            color: #f1f5f9;
+            min-height: 100vh;
             padding: 20px;
-            background: var(--background);
-            color: var(--text);
-            transition: background-color 0.3s ease;
         }
 
         .container {
             max-width: 800px;
             margin: 0 auto;
-            background: var(--surface);
+            background: #1e293b;
             padding: 30px;
             border-radius: 12px;
-            box-shadow: var(--card-shadow);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
         }
 
-        .header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
+        h1 {
+            font-size: 1.8rem;
             margin-bottom: 30px;
-        }
-
-        .theme-toggle {
-            background: var(--surface-secondary);
-            border: 1px solid var(--border);
-            padding: 8px 16px;
-            border-radius: 8px;
-            cursor: pointer;
-            color: var(--text);
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            transition: all 0.2s;
-        }
-
-        .theme-toggle:hover {
-            border-color: var(--primary);
+            background: linear-gradient(45deg, #3b82f6, #ff9900);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
         }
 
         .progress-bar {
             height: 8px;
-            background: var(--surface-secondary);
+            background: #293548;
             border-radius: 4px;
             margin: 20px 0;
             overflow: hidden;
@@ -84,12 +47,14 @@
 
         .progress-bar-fill {
             height: 100%;
-            background: var(--primary);
+            background: linear-gradient(90deg, #3b82f6, #ff9900);
             transition: width 0.3s ease;
         }
 
-        .question {
-            margin-bottom: 30px;
+        .question h2 {
+            color: #f1f5f9;
+            margin-bottom: 20px;
+            font-size: 1.5rem;
         }
 
         .options {
@@ -101,32 +66,33 @@
             display: block;
             width: 100%;
             padding: 20px;
-            background: var(--surface);
-            border: 1px solid var(--border);
+            background: #1e293b;
+            border: 1px solid #334155;
             border-radius: 12px;
             text-align: left;
             cursor: pointer;
             transition: all 0.2s;
-            color: var(--text);
+            color: #f1f5f9;
         }
 
         .option-button:hover {
-            border-color: var(--primary);
-            background: var(--surface-secondary);
+            border-color: #3b82f6;
+            background: #293548;
             transform: translateY(-2px);
         }
 
         .option-title {
-            font-weight: 600;
-            margin-bottom: 4px;
             display: flex;
             align-items: center;
-            gap: 8px;
+            gap: 10px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 5px;
         }
 
         .option-description {
-            font-size: 14px;
-            color: var(--text-secondary);
+            color: #cbd5e1;
+            font-size: 0.9rem;
         }
 
         .result {
@@ -144,74 +110,37 @@
         }
 
         .use-case {
-            background: var(--surface-secondary);
-            padding: 20px;
-            border-radius: 12px;
-            margin: 15px 0;
-            border: 1px solid var(--border);
-            display: flex;
-            align-items: flex-start;
-            gap: 12px;
+            background: #293548;
+            padding: 1rem;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            border: 1px solid #334155;
         }
 
         .query-example {
-            background: var(--surface-secondary);
-            padding: 16px;
+            background: #1e293b;
+            padding: 1rem;
             border-radius: 8px;
-            margin: 12px 0;
-            font-family: 'Menlo', 'Monaco', 'Courier New', monospace;
-            border: 1px solid var(--border);
-            overflow-x: auto;
+            margin-bottom: 1rem;
+            border: 1px solid #334155;
+            font-family: monospace;
         }
 
         .reset-button {
-            background: var(--primary);
+            background: #3b82f6;
             color: white;
             border: none;
             padding: 12px 24px;
             border-radius: 8px;
             cursor: pointer;
-            margin-top: 20px;
             font-weight: 500;
             transition: all 0.2s;
+            margin-top: 20px;
         }
 
         .reset-button:hover {
-            background: var(--primary-hover);
+            background: #2563eb;
             transform: translateY(-2px);
-        }
-
-        .check-icon {
-            color: var(--success);
-            display: inline-flex;
-        }
-
-        .section-title {
-            font-size: 1.5rem;
-            margin: 30px 0 15px;
-            padding-bottom: 10px;
-            border-bottom: 2px solid var(--border);
-        }
-
-        .tag {
-            background: var(--surface-secondary);
-            padding: 4px 8px;
-            border-radius: 4px;
-            font-size: 0.875rem;
-            color: var(--primary);
-            border: 1px solid var(--border);
-        }
-
-        .persona-header {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-            margin-bottom: 20px;
-        }
-
-        .persona-title {
-            margin: 0;
-            font-size: 2rem;
         }
 
         @media (max-width: 640px) {
@@ -222,34 +151,31 @@
             .option-button {
                 padding: 15px;
             }
+            
+            h1 {
+                font-size: 1.5rem;
+            }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="header">
-            <h1>Amazon Q Persona Finder</h1>
-            <button id="theme-toggle" class="theme-toggle">
-                <span id="theme-icon">🌙</span>
-                <span id="theme-text">Dark Mode</span>
-            </button>
-        </div>
+        <h1>Amazon Q Persona Finder</h1>
+
         <div id="quiz">
             <div class="progress-bar">
-                <div class="progress-bar-fill" style="width: 33%"></div>
+                <div class="progress-bar-fill"></div>
             </div>
             <div class="question">
-                <h2 id="question-text">What's your primary focus?</h2>
+                <h2 id="questionText"></h2>
                 <div class="options" id="options"></div>
             </div>
         </div>
-        <div id="result" class="result">
-            <!-- Results will be inserted here -->
-        </div>
+
+        <div id="result" class="result"></div>
     </div>
 
     <script>
-        // Enhanced questions with more specific options
         const questions = [
             {
                 text: "What's your primary focus?",
@@ -283,12 +209,9 @@
             }
         ];
 
-        // Enhanced personas with more roles and detailed information
         const personas = {
             'technical-development-code': {
                 title: 'Developer',
-                tag: 'Application Development',
-                icon: '👨‍💻',
                 description: 'You focus on application development and code optimization',
                 primaryUseCases: [
                     'SDK implementation assistance',
@@ -299,121 +222,67 @@
                 recommendedQueries: [
                     'Help me implement AWS SDK retry logic',
                     'Review my Lambda function for performance',
-                    'Show me how to use AWS SDK for S3 presigned URLs',
-                    'Help me implement error handling for my API Gateway'
+                    'Show me how to use AWS SDK for S3 presigned URLs'
                 ]
             },
             'technical-infrastructure-infra': {
                 title: 'Cloud Architect',
-                tag: 'Infrastructure Design',
-                icon: '🏗️',
                 description: 'You design and implement cloud architecture',
                 primaryUseCases: [
                     'Architecture review',
                     'Service selection',
                     'Migration planning',
-                    'Performance optimization',
-                    'Cost-effective design'
+                    'Performance optimization'
                 ],
                 recommendedQueries: [
                     'Review my architecture for scalability',
                     'Compare Aurora vs RDS for my use case',
-                    'Help design a multi-region strategy',
-                    'Suggest improvements for my VPC design'
+                    'Help design a multi-region strategy'
                 ]
             },
             'security-infrastructure-monitor': {
                 title: 'Security Engineer',
-                tag: 'Security & Compliance',
-                icon: '🔒',
                 description: 'You focus on security and compliance',
                 primaryUseCases: [
                     'Security assessments',
                     'Compliance checking',
                     'Access management',
-                    'Security monitoring',
-                    'Incident response'
+                    'Security monitoring'
                 ],
                 recommendedQueries: [
                     'Review my IAM policies for security risks',
                     'Help implement HIPAA controls',
-                    'Set up GuardDuty with custom findings',
-                    'Analyze my Security Hub findings'
+                    'Set up GuardDuty with custom findings'
                 ]
             },
             'financial-analysis-bi': {
                 title: 'FinOps Specialist',
-                tag: 'Cost Optimization',
-                icon: '💰',
                 description: 'You optimize cloud costs and financial operations',
                 primaryUseCases: [
                     'Cost optimization',
                     'Resource utilization',
                     'Budget management',
-                    'Reserved instance planning',
-                    'Savings plans analysis'
+                    'Reserved instance planning'
                 ],
                 recommendedQueries: [
                     'Analyze my EC2 costs',
                     'Optimize RDS instance costs',
-                    'Review reserved instance coverage',
-                    'Suggest cost optimization strategies'
-                ]
-            },
-            'data-ml-data': {
-                title: 'ML Engineer',
-                tag: 'Machine Learning',
-                icon: '🤖',
-                description: 'You develop and deploy machine learning models',
-                primaryUseCases: [
-                    'Model development',
-                    'SageMaker deployment',
-                    'ML pipeline automation',
-                    'Model monitoring',
-                    'Data pipeline optimization'
-                ],
-                recommendedQueries: [
-                    'Help set up a SageMaker endpoint',
-                    'Create a training job template',
-                    'Optimize my preprocessing pipeline',
-                    'Monitor model drift with CloudWatch'
+                    'Review reserved instance coverage'
                 ]
             }
         };
-
-        // Theme toggling
-        const themeToggle = document.getElementById('theme-toggle');
-        const themeIcon = document.getElementById('theme-icon');
-        const themeText = document.getElementById('theme-text');
-
-        function setTheme(isDark) {
-            document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
-            themeIcon.textContent = isDark ? '☀️' : '🌙';
-            themeText.textContent = isDark ? 'Light Mode' : 'Dark Mode';
-            localStorage.setItem('theme', isDark ? 'dark' : 'light');
-        }
-
-        // Initialize theme
-        const savedTheme = localStorage.getItem('theme');
-        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-        setTheme(savedTheme ? savedTheme === 'dark' : prefersDark);
-
-        themeToggle.addEventListener('click', () => {
-            const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-            setTheme(!isDark);
-        });
 
         let currentStep = 0;
         const answers = {};
 
         function updateProgress() {
-            const progressBar = document.querySelector('.progress-bar-fill');
-            progressBar.style.width = `${((currentStep + 1) / questions.length) * 100}%`;
+            const progress = ((currentStep + 1) / questions.length) * 100;
+            document.querySelector('.progress-bar-fill').style.width = `${progress}%`;
         }
 
         function showQuestion() {
             const question = questions[currentStep];
-            document.getElementById('question-text').textContent = question.text;
+            document.getElementById('questionText').textContent = question.text;
             
             const optionsContainer = document.getElementById('options');
             optionsContainer.innerHTML = '';
@@ -423,4 +292,69 @@
                 button.className = 'option-button';
                 button.innerHTML = `
                     <div class="option-title">
-                        <span
+                        <span>${option.icon}</span>
+                        ${option.text}
+                    </div>
+                    <div class="option-description">${option.description}</div>
+                `;
+                button.onclick = () => handleAnswer(option.id);
+                optionsContainer.appendChild(button);
+            });
+        }
+
+        function handleAnswer(answerId) {
+            answers[currentStep] = answerId;
+            
+            if (currentStep < questions.length - 1) {
+                currentStep++;
+                updateProgress();
+                showQuestion();
+            } else {
+                showResult();
+            }
+        }
+
+        function showResult() {
+            const key = `${answers[0]}-${answers[1]}-${answers[2]}`;
+            const persona = personas[key] || personas['technical-development-code'];
+            
+            const resultHtml = `
+                <h2>${persona.title}</h2>
+                <p>${persona.description}</p>
+                
+                <h3>Primary Use Cases</h3>
+                ${persona.primaryUseCases.map(useCase => `
+                    <div class="use-case">
+                        <span>✓</span> ${useCase}
+                    </div>
+                `).join('')}
+                
+                <h3>Recommended Queries</h3>
+                ${persona.recommendedQueries.map(query => `
+                    <div class="query-example">${query}</div>
+                `).join('')}
+                
+                <button class="reset-button" onclick="resetQuiz()">Start Over</button>
+            `;
+            
+            document.getElementById('quiz').style.display = 'none';
+            const resultElement = document.getElementById('result');
+            resultElement.innerHTML = resultHtml;
+            resultElement.classList.add('active');
+        }
+
+        function resetQuiz() {
+            currentStep = 0;
+            Object.keys(answers).forEach(key => delete answers[key]);
+            document.getElementById('quiz').style.display = 'block';
+            document.getElementById('result').classList.remove('active');
+            updateProgress();
+            showQuestion();
+        }
+
+        // Initialize the quiz
+        updateProgress();
+        showQuestion();
+    </script>
+</body>
+</html>
