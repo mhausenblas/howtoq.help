@@ -6,7 +6,7 @@ has_children: true
 has_toc: true
 ---
 
-# Amazon Q Use Cases
+# Use Cases
 
 Here we discuss practical examples and scenarios for using Amazon Q.
 Share yours!
