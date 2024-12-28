@@ -1,4 +1,4 @@
-title: "How to Q: The Amazon Q mentor"
+title: "How to Q"
 description: All things on How and Why to use Amazon Q
 remote_theme: just-the-docs/just-the-docs
 
@@ -7,14 +7,6 @@ enable_copy_code_button: true
 
 # Color scheme
 color_scheme: dark
-
-# External navigation
-nav_external_links:
-- title: Amazon Q home
-  url: https://aws.amazon.com/q/
-  hide_icon: false
-- title: Amazon Q Developer change log
-  url: https://aws.amazon.com/developer/generative-ai/amazon-q/change-log/
 
 # Search settings
 search_enabled: true

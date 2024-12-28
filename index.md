@@ -2,7 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
-description: "How to Q: The Amazon Q mentor"
+description: "How to Q: Home"
 permalink: /
 ---
 
