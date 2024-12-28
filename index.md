@@ -11,6 +11,26 @@ permalink: /
 Welcome to your comprehensive guide for Amazon Q. This is your one-stop hub
 for _How_ and _Why_ to use Amazon Q.
 
+So let's start with the basics. What is Amazon Q? It's a generative AI (GenAI)
+assistant with specialized capabilities for software developers, business 
+intelligence analysts, contact center employees, supply chain analysts, 
+and really anyone building with AWS. It can help you to get insights on your
+data and accelerate your tasks, be that developing software or analyzing data.
+You can also benefit from Amazon Q's advanced capabilities to build agentic workflows.
+There are two products available currently under the Q brand:
+
+- Amazon Q *Developer*: Is the most capable generative AI-powered assistant for
+building, operating, and transforming software, with advanced capabilities 
+for managing data and AI/ML. You want to use it if your main tasks revolve around
+coding, testing, deploying, troubleshooting, performing security fixes, 
+modernizing applications (migrate or rewrite legacy apps), 
+optimizing AWS resources, and creating data engineering pipelines.
+- Amazon Q *Business*: Makes GenAI securely accessible to everyone in your
+organization. Leveraging your own company's content, data, and systems, Amazon
+Q Business makes it easier to get you fast, relevant answers to pressing questions,
+solve problems, generate content, and take actions on your behalf.
+
+
 Recent additions
 {: .label .label-green }
 
