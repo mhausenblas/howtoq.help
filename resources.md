@@ -18,7 +18,6 @@ permalink: /resources
 {:toc}
 </details>
 
-
 ## Official resources
 
 - [Amazon Q home](https://aws.amazon.com/q/)
