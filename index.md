@@ -1,5 +1,5 @@
 ---
-title: Home
+title: How to Q
 layout: home
 nav_order: 1
 description: "How to Q: Home"
