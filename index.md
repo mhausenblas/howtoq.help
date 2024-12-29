@@ -53,3 +53,10 @@ Here's how you can use this site: TBD
 
 I'd love to hear from you! Please [share](mailto:mhausenblas@icloud.com) 
 your feedback and feel free to suggest content to be added here.
+
+{: .info-title }
+> Disclaimer
+>
+> This site is not provided or managed by Amazon Web Services (AWS).
+> The information provided here represents my own view points and 
+> not those of my employer AWS.
