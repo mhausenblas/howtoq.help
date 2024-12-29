@@ -57,7 +57,6 @@ Featured
 - [Amazon Q Developer - Deep Dive](https://catalog.us-east-1.prod.workshops.aws/workshops/e2226eb6-f109-47ae-b2c5-f02bf73b7d0e/en-US)
 
 ## Feedback
-
 I'd love to hear from you! Please [share](mailto:mhausenblas@icloud.com) 
 your feedback and feel free to suggest content to be added here.
 

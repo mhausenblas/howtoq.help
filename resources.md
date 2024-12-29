@@ -28,7 +28,7 @@ permalink: /resources
 
 ## Community resources
 
-## Tooling & workshops 👌
+### Tooling & workshops 👌
 
 - [Simplify prompting for Amazon Q Developer](https://www.promptz.dev/)
 - [Amazon Q Developer - Deep Dive](https://catalog.us-east-1.prod.workshops.aws/workshops/e2226eb6-f109-47ae-b2c5-f02bf73b7d0e/en-US)
