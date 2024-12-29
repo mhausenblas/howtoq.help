@@ -20,20 +20,35 @@ permalink: /resources
 
 ## Official resources
 
-- [Amazon Q home](https://aws.amazon.com/q/)
+### Main
+
+- [Amazon Q Home](https://aws.amazon.com/q/)
 - [Amazon Q Developer](https://aws.amazon.com/developer/generative-ai/amazon-q/)
   - [Amazon Q User Guide: Code examples](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/inline-suggestions-code-examples.html)
   - [Amazon Q community](https://community.aws/amazon-q)
   - [Amazon Q change log](https://aws.amazon.com/developer/generative-ai/amazon-q/change-log/)
 
+### AWS Solutions Library
+
+- [Guidance for Creating a Customized Coding Companion with Amazon Q Developer](https://aws.amazon.com/solutions/guidance/creating-a-customized-coding-companion-with-amazon-q-developer/)
+
+### Tooling & workshops
+
+- Workshop: [Amazon Q Developer - Deep Dive](https://catalog.us-east-1.prod.workshops.aws/workshops/e2226eb6-f109-47ae-b2c5-f02bf73b7d0e/en-US)
+- GitHub repos:
+  - [aws/mynah-ui](https://github.com/aws/mynah-ui), a data & event driven chat 
+  interface library for browsers and webviews
+  - [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode),
+  a VS Code extension for connecting your IDE to Amazon Q and leveraging generative
+  AI to accelerate your software development
+
 ## Community resources
 
-### Tooling & workshops 👌
+### Tooling & workshops
 
 - [Simplify prompting for Amazon Q Developer](https://www.promptz.dev/)
-- [Amazon Q Developer - Deep Dive](https://catalog.us-east-1.prod.workshops.aws/workshops/e2226eb6-f109-47ae-b2c5-f02bf73b7d0e/en-US)
 
-### Blog posts 📝
+### Blog posts
 
 - [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
 - [Can Amazon Q Developer draw diagrams. No but
@@ -43,7 +58,7 @@ permalink: /resources
 - [DIY personalization for Amazon Q Developer](https://it20.info/2024/10/diy-personalization-for-amazon-q-developer/)
 - [10 Tips on How to Effectively Prompt Amazon Q](https://dev.to/nat_ndlovu/10-tips-on-how-to-effectively-prompt-amazon-q-50k2)
 
-### Videos 🎬
+### Videos
 
 re:Invent 2024
 {: .label }
