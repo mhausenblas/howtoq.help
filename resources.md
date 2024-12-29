@@ -58,3 +58,8 @@ re:Invent 2024
   (DEV310)](https://www.youtube.com/watch?v=6-MlALaPX9A)
 - [What’s new with Amazon Q Business (AIM237)](https://www.youtube.com/watch?v=ytaJPyRCYlw)
 
+re:Invent 2023
+{: .label }
+
+- [Best practices for Amazon CodeWhisperer (DOP201)](https://www.youtube.com/watch?v=F_dSkRHCXBc)
+- [Realizing the developer productivity benefits of Amazon CodeWhisperer (DOP202)](https://www.youtube.com/watch?v=eP1I6S0UMkc)
