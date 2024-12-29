@@ -11,6 +11,14 @@ permalink: /
 Welcome to your comprehensive guide for Amazon Q. This is your one-stop hub
 for _How_ and _Why_ to use Amazon Q.
 
+Recent additions
+{: .label .label-green }
+
+- [2024-12-28] Added experimental tool for [use case-driven prompts](persona-finder.html)
+- [2024-12-28] This site goes live!
+
+To get an overview, check out this video:
+
 <iframe width="560" height="315" 
         src="https://www.youtube.com/embed/frOJDGG0Xds?si=raZtks_hpj-yq3nv" 
         title="Amazon Q overview" 
@@ -20,12 +28,14 @@ for _How_ and _Why_ to use Amazon Q.
         allowfullscreen>
 </iframe>
 
-So let's start with the basics. What is Amazon Q? It's a generative AI (GenAI)
+## Basics
+Let's start with the basics. What is Amazon Q? It's a generative AI (GenAI)
 assistant with specialized capabilities for software developers, business 
 intelligence analysts, contact center employees, supply chain analysts, 
 and really anyone building with AWS. It can help you to get insights on your
 data and accelerate your tasks, be that developing software or analyzing data.
 You can also benefit from Amazon Q's advanced capabilities to build agentic workflows.
+
 There are two products available currently under the Q brand:
 
 - Amazon Q **Developer**: Is the most capable generative AI-powered assistant for
@@ -39,15 +49,12 @@ organization. Leveraging your own company's content, data, and systems, Amazon
 Q Business makes it easier to get you fast, relevant answers to pressing questions,
 solve problems, generate content, and take actions on your behalf.
 
-Recent additions
-{: .label .label-green }
+Featured
+{: .label .label-yellow }
 
-- [2024-12-28] Added experimental tool for [use case-driven prompts](persona-finder.html)
-- [2024-12-28] This site goes live!
-
-## Guide
-
-Here's how you can use this site: TBD
+- [Simplify prompting for Amazon Q Developer](https://www.promptz.dev/)
+- [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
+- [Amazon Q Developer - Deep Dive](https://catalog.us-east-1.prod.workshops.aws/workshops/e2226eb6-f109-47ae-b2c5-f02bf73b7d0e/en-US)
 
 ## Feedback
 

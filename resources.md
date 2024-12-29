@@ -28,8 +28,14 @@ permalink: /resources
 
 ## Community resources
 
+## Tooling & workshops 👌
+
+- [Simplify prompting for Amazon Q Developer](https://www.promptz.dev/)
+- [Amazon Q Developer - Deep Dive](https://catalog.us-east-1.prod.workshops.aws/workshops/e2226eb6-f109-47ae-b2c5-f02bf73b7d0e/en-US)
+
 ### Blog posts 📝
 
+- [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
 - [Amazon Q Developer Tips: No.7 Generating better prompts](https://community.aws/content/2ptGK7gERvVEyV1n18aRjEmUWNi/amazon-q-developer-tips-no-7-generating-better-prompts)
 - [The Ultimate Cheat Sheet for Using Amazon Q Developer in Your IDE](https://community.aws/content/2eYoqeFRqaVnk900emsknDfzhfW/the-ultimate-cheat-sheet-for-using-amazon-q-developer-in-your-ide?lang=en)
 - [DIY personalization for Amazon Q Developer](https://it20.info/2024/10/diy-personalization-for-amazon-q-developer/)
