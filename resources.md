@@ -36,6 +36,8 @@ permalink: /resources
 ### Blog posts 📝
 
 - [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
+- [Can Amazon Q Developer draw diagrams. No but
+  yes!](https://community.aws/content/2nHdJM5CsZFElsGarZGVF9k45mp/can-amazon-q-developer-drawn-diagram-no-but-yes)
 - [Amazon Q Developer Tips: No.7 Generating better prompts](https://community.aws/content/2ptGK7gERvVEyV1n18aRjEmUWNi/amazon-q-developer-tips-no-7-generating-better-prompts)
 - [The Ultimate Cheat Sheet for Using Amazon Q Developer in Your IDE](https://community.aws/content/2eYoqeFRqaVnk900emsknDfzhfW/the-ultimate-cheat-sheet-for-using-amazon-q-developer-in-your-ide?lang=en)
 - [DIY personalization for Amazon Q Developer](https://it20.info/2024/10/diy-personalization-for-amazon-q-developer/)
