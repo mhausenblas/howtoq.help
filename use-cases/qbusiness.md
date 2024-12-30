@@ -1,6 +1,7 @@
 ---
 title: Use Cases for Amazon Q Business
 layout: default
+parent: Use Cases
 nav_order: 2
 description: "How to Q: Use Cases for Amazon Q Business"
 ---
