@@ -64,9 +64,9 @@ permalink: /resources
   Own?](https://agilevision.io/blog/enterprise-co-pilot-on-aws-buy-amazon-q-for-business-or-build-your-own/)
 - [First time with Amazon Q: Game app for
   hackathon](https://community.aws/content/2qvCsAVUoyD4awdLEv8KeMIDAqr/first-time-with-amazon-q-game-app-for-hackathon)
-- q-developer
-  {: .label .label-green } [Can Amazon Q Developer draw diagrams. No but yes!](https://community.aws/content/2nHdJM5CsZFElsGarZGVF9k45mp/can-amazon-q-developer-drawn-diagram-no-but-yes)
-  - [Amazon Q Developer Tips: No.7 Generating better prompts](https://community.aws/content/2ptGK7gERvVEyV1n18aRjEmUWNi/amazon-q-developer-tips-no-7-generating-better-prompts)
+- [Can Amazon Q Developer draw diagrams. No but yes!](https://community.aws/content/2nHdJM5CsZFElsGarZGVF9k45mp/can-amazon-q-developer-drawn-diagram-no-but-yes)  q-developer
+  {: .label .label-green }
+- [Amazon Q Developer Tips: No.7 Generating better prompts](https://community.aws/content/2ptGK7gERvVEyV1n18aRjEmUWNi/amazon-q-developer-tips-no-7-generating-better-prompts)
 - [The Ultimate Cheat Sheet for Using Amazon Q Developer in Your IDE](https://community.aws/content/2eYoqeFRqaVnk900emsknDfzhfW/the-ultimate-cheat-sheet-for-using-amazon-q-developer-in-your-ide?lang=en)
 - [DIY personalization for Amazon Q Developer](https://it20.info/2024/10/diy-personalization-for-amazon-q-developer/)
 - [10 Tips on How to Effectively Prompt Amazon Q](https://dev.to/nat_ndlovu/10-tips-on-how-to-effectively-prompt-amazon-q-50k2)
