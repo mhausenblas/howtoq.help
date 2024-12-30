@@ -12,7 +12,7 @@ Welcome to your comprehensive guide for Amazon Q. This is your one-stop hub
 for _How_ and _Why_ to use Amazon Q.
 
 Recent additions
-{: .label .label-green }
+{: .label .label-yellow }
 
 - [2024-12-30] More [resources](/resources)
 - [2024-12-28] This site goes live!
