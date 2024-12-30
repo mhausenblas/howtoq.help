@@ -7,6 +7,17 @@ description: "How to Q: Use Cases for Amazon Q Developer"
 ---
 
 # Use Cases for Amazon Q Developer
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 
 ## Development
 
@@ -15,7 +26,7 @@ In this section we look at use cases around the software development process.
 ### Migrating legacy code
 {: .d-inline-block }
 
-Last modified 2024-05-17
+Last modified: 2024-05-17
 {: .label .label-green }
 
 In [Getting Started with Amazon Q Developer agent for code transformation](https://community.aws/content/2eVdhUJCeXdscDUnfGK4GpCZ6Ya/getting-started-with-amazon-q-developer-agent-for-code-transformation), Vinicius Senger shows you step-by-step
@@ -37,21 +48,37 @@ agent for code transformation.
 
 ## Infrastructure
 
-If you are in looking for use cases around AWS infrastructure management:
+If you are looking for use cases around AWS infrastructure management, Amazon Q
+Developer can be of assistance. Some concrete examples are:
 
-- Architecture review
-- Service selection
-- Migration planning
-- Performance optimization
-- Cost management
-- Observability
-  - Example: [Investigate and remediate operational issues with Amazon Q Developer](https://aws.amazon.com/blogs/aws/investigate-and-remediate-operational-issues-with-amazon-q-developer/)
+### Architecture review
+
+### Selecting an AWS service
+
+### Performance optimization
+
+### Cost management for AWS services
+
+### Observability
+{: .d-inline-block }
+
+Last modified: 2024-12-03
+{: .label .label-green }
+
+Donnie Prakoso writes about an observability use case in 
+[Investigate and remediate operational issues with Amazon Q Developer](https://aws.amazon.com/blogs/aws/investigate-and-remediate-operational-issues-with-amazon-q-developer/). The article shows how to use Amazon CloudWatch to guide you 
+through operational diagnostics and automate root cause analysis for problems 
+in your AWS workloads.
 
 ## Security
 
-Use cases in the security domain:
+Use cases in the security domain are another category of use cases. Let's have
+a closer look.
 
-- Security assessment
-- Compliance checking
-- IAM policy review
-- Security monitoring
+### Security assessment
+
+### Validating compliance
+
+### IAM policy review
+
+### Security monitoring
