@@ -10,14 +10,30 @@ description: "How to Q: Use Cases for Amazon Q Developer"
 
 ## Development
 
-In the software development process:
+In this section we look at use cases around the software development process.
 
-- Code review and optimization
-- API implementation
-- Serverless development
-- Error handling
-- Testing strategies
-- Documentation
+### Migrating legacy code
+{: .d-inline-block }
+
+Last modified 2024-05-17
+{: .label .label-green }
+
+In [Getting Started with Amazon Q Developer agent for code transformation](https://community.aws/content/2eVdhUJCeXdscDUnfGK4GpCZ6Ya/getting-started-with-amazon-q-developer-agent-for-code-transformation), Vinicius Senger shows you step-by-step
+how to upgrade your Java 8 or 11 projects to Java 17, using the Amazon Q Developer
+agent for code transformation.
+
+### Code review and optimization
+
+### Implementing APIs
+
+### Support for serverless development
+
+### Error handling
+
+### Developing testing strategies
+
+### Add and enrich documentation
+
 
 ## Infrastructure
 
