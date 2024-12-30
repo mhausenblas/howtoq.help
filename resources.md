@@ -51,6 +51,8 @@ permalink: /resources
 ### Blog posts
 
 - [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
+- [First time with Amazon Q: Game app for
+  hackathon](https://community.aws/content/2qvCsAVUoyD4awdLEv8KeMIDAqr/first-time-with-amazon-q-game-app-for-hackathon)
 - [Can Amazon Q Developer draw diagrams. No but
   yes!](https://community.aws/content/2nHdJM5CsZFElsGarZGVF9k45mp/can-amazon-q-developer-drawn-diagram-no-but-yes)
 - [Amazon Q Developer Tips: No.7 Generating better prompts](https://community.aws/content/2ptGK7gERvVEyV1n18aRjEmUWNi/amazon-q-developer-tips-no-7-generating-better-prompts)
