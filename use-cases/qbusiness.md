@@ -1,10 +1,12 @@
 ---
-title: Use Cases for Amazon Q Business
+title: Amazon Q Business
 layout: default
 parent: Use Cases
 nav_order: 2
 description: "How to Q: Use Cases for Amazon Q Business"
 ---
+
+# Use Cases for Amazon Q Business
 
 ## Business Operations
 

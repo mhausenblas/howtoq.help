@@ -1,10 +1,12 @@
 ---
-title: Use Cases for Amazon Q Developer
+title: Amazon Q Developer
 layout: default
 parent: Use Cases
 nav_order: 1
 description: "How to Q: Use Cases for Amazon Q Developer"
 ---
+
+# Use Cases for Amazon Q Developer
 
 ## Development
 
