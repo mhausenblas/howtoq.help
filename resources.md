@@ -20,8 +20,7 @@ permalink: /resources
 
 ## Official resources
 
-[Amazon Q Home](https://aws.amazon.com/q/) |  [Amazon Q community](https://community.aws/amazon-q)
-| [Amazon Q pricing plans](https://aws.amazon.com/q/pricing/)
+[Amazon Q Home](https://aws.amazon.com/q/) | [Amazon Q Docs](https://docs.aws.amazon.com/amazonq/) | [Amazon Q community](https://community.aws/amazon-q) | [Amazon Q pricing plans](https://aws.amazon.com/q/pricing/)
 
 ### Amazon Q Developer
 
