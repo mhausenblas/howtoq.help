@@ -1,15 +1,9 @@
 ---
-title: Use Cases
+title: Use Cases for Amazon Q Developer
 layout: default
-nav_order: 3
-description: "How to Q: Use Cases"
-has_children: true
+nav_order: 1
+description: "How to Q: Use Cases for Amazon Q Developer"
 ---
-
-# Use Cases
-
-Here we discuss practical examples and scenarios for using Amazon Q. Please also
-consider [sharing](mailto:mhausenblas@icloud.com) your use case!
 
 ## Development
 
@@ -42,13 +36,3 @@ Use cases in the security domain:
 - Compliance checking
 - IAM policy review
 - Security monitoring
-
-## Business Operations
-
-For business operations, here are a few use cases:
-
-- Cost analysis
-- Resource planning
-- Process optimization
-- Documentation
-- Training assistance
