@@ -20,10 +20,10 @@ permalink: /resources
 
 ## Official resources
 
-### Main
-
 - [Amazon Q Home](https://aws.amazon.com/q/)
 - [Amazon Q pricing plans](https://aws.amazon.com/q/pricing/)
+
+### Amazon Q Developer
 
 [![Amazon Q Developer](assets/images/amazon-q-developer.png)](https://aws.amazon.com/q/developer/)
 
@@ -31,6 +31,7 @@ permalink: /resources
 - [Amazon Q community](https://community.aws/amazon-q)
 - [Amazon Q change log](https://aws.amazon.com/developer/generative-ai/amazon-q/change-log/)
 
+### Amazon Q Business
 
 [![Amazon Q Business](assets/images/amazon-q-business.png)](https://aws.amazon.com/q/business/)
 
