@@ -25,7 +25,7 @@ permalink: /resources
 - [Amazon Q Home](https://aws.amazon.com/q/)
 - [Amazon Q pricing plans](https://aws.amazon.com/q/pricing/)
 
-[Amazon Q Developer](https://aws.amazon.com/q/developer/)
+[![Amazon Q Developer](assets/images/amazon-q-developer.jpg)](https://aws.amazon.com/q/developer/)
 
 - [Amazon Q User Guide: Code examples](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/inline-suggestions-code-examples.html)
 - [Amazon Q community](https://community.aws/amazon-q)
