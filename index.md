@@ -14,7 +14,7 @@ for _How_ and _Why_ to use Amazon Q.
 Recent additions
 {: .label .label-green }
 
-- [2024-12-29] More [resources](/resources)
+- [2024-12-30] More [resources](/resources)
 - [2024-12-28] This site goes live!
 
 To get an overview, check out this video:
