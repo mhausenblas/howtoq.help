@@ -23,10 +23,19 @@ permalink: /resources
 ### Main
 
 - [Amazon Q Home](https://aws.amazon.com/q/)
-- [Amazon Q Developer](https://aws.amazon.com/developer/generative-ai/amazon-q/)
-  - [Amazon Q User Guide: Code examples](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/inline-suggestions-code-examples.html)
-  - [Amazon Q community](https://community.aws/amazon-q)
-  - [Amazon Q change log](https://aws.amazon.com/developer/generative-ai/amazon-q/change-log/)
+- [Amazon Q pricing plans](https://aws.amazon.com/q/pricing/)
+
+[Amazon Q Developer](https://aws.amazon.com/q/developer/)
+
+- [Amazon Q User Guide: Code examples](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/inline-suggestions-code-examples.html)
+- [Amazon Q community](https://community.aws/amazon-q)
+- [Amazon Q change log](https://aws.amazon.com/developer/generative-ai/amazon-q/change-log/)
+
+
+[Amazon Q Business](https://aws.amazon.com/q/business/)
+
+- [Getting started with Amazon Q Business](https://docs.aws.amazon.com/amazonq/latest/qbusiness-ug/getting-started.html)
+
 
 ### AWS Solutions Library
 
