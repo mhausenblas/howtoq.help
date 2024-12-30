@@ -1,11 +1,39 @@
-.video-container {
-  position: relative;
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.video-item {
   margin-bottom: 1rem;
   
   img {
     width: 100%;
-    max-width: 640px;
-    border-radius: 4px;
+    border-radius: 8px;
+    transition: transform 0.2s ease-in-out;
+    
+    &:hover {
+      transform: translateY(-4px);
+    }
+  }
+  
+  h3 {
+    margin-top: 0.75rem;
+    font-size: 1.1rem;
+    margin-bottom: 0.25rem;
+  }
+  
+  p {
+    font-size: 0.9rem;
+  }
+}
+
+// Responsive adjustments
+@media (max-width: 800px) {
+  .video-grid {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
   }
 }
 
