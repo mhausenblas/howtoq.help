@@ -79,7 +79,7 @@ re:Invent 2024
 <div class="video-grid" markdown="1">
 
 <div class="video-item" markdown="1">
-[![Accelerate application maintenance and upgrades with generative AI (DOP209)](https://img.youtube.com/vi/iQ_8YtgLAtI/hqdefault.jpg)](https://www.youtube.com/watch?v=iQ_8YtgLAtI)
+[![Accelerate application maintenance and upgrades with generative AI (DOP209)](https://img.youtube.com/vi/iQ_8YtgLAtI/hqdefault.jpg "Accelerate application maintenance and upgrades with generative AI (DOP209)")](https://www.youtube.com/watch?v=iQ_8YtgLAtI)
 Accelerate application maintenance and upgrades with generative AI (DOP209)
 {: .text-grey-dk-000 }
 </div>
