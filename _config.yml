@@ -17,10 +17,11 @@ nav_external_links:
 # Search settings
 search_enabled: true
 search:
+  rel_url: false
   heading_level: 3
-  previews: 3
-  preview_words_before: 5
-  preview_words_after: 10
+  previews: 4
+  preview_words_before: 8
+  preview_words_after: 12
 
 # Back to top link
 back_to_top: true
