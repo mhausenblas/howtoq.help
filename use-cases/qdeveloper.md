@@ -34,6 +34,16 @@ how to upgrade your Java 8 or 11 projects to Java 17, using the Amazon Q Develop
 agent for code transformation.
 
 ### Code review and optimization
+{: .d-inline-block }
+
+Documentation
+{: .label .label-blue }
+
+[Reviewing code with Amazon Q Developer](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/code-reviews.html)
+explains how to review your code for security vulnerabilities, such as
+Static Application Security Testing (SAST) and Software composition analysis
+(SCA), and also code quality issues including performance and compliance with
+AWS best practices.
 
 ### Implementing APIs
 
