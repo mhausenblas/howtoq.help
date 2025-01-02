@@ -18,7 +18,6 @@ description: "How to Q: Use Cases for Amazon Q Developer"
 {:toc}
 </details>
 
-
 ## Development
 
 In this section we look at use cases around the software development process.
