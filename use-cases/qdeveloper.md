@@ -45,7 +45,7 @@ Static Application Security Testing (SAST) and Software composition analysis
 (SCA), and also code quality issues including performance and compliance with
 AWS best practices.
 
-### Debugging and troubleshooting
+### Debugging code
 {: .d-inline-block }
 
 Last modified: 2024-07-19
@@ -55,12 +55,24 @@ Kasun de Silva's [De-Bugging with Amazon Q and Generative AI](https://community.
 explains how to use Amazon Q Developer to debug an AWS Lambda Function that has
 a deadlock issue.
 
-
 ### Implementing APIs
+{: .d-inline-block }
 
-### Support for serverless development
+Last modified: 2024-10-12
+{: .label .label-green }
 
-### Error handling
+[Amazon Q Developer and Bedrock: Using AI to Implement an AI-Powered API](https://medium.com/@thinkinginthecloudsproject/amazon-q-developer-and-bedrock-using-ai-to-implement-an-ai-powered-api-297eff6a1eca) by Thinking In The Clouds shows the
+generation of a basic API in Python that customers can use to purchase airline
+tickets.
+
+###  Troubleshooting
+
+Brendan Jenkins, Jehu Gray, and Robert Stolz wrote about how to utilize Amazon Q
+Developer for troubleshooting. In [Five troubleshooting examples with Amazon
+Q](https://aws.amazon.com/blogs/devops/five-troubleshooting-examples-with-amazon-q/)
+they show how to understand EC2 SSH connection issues, dive deep into VPC network
+connection issues, resolve IAM Permission challenges, fix a Lambda function, and
+identify and resolve an S3 Replication rule configuration error.
 
 ### Developing testing strategies
 
