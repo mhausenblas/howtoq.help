@@ -123,12 +123,15 @@ Claudio Taverna published [I challenged Amazon Q with 3 cloud architecture quest
 where they are asking different architectural questions, from high-level
 to cost evaluation.
 
-### Selecting an AWS service
-
-### Performance optimization
-
 ### Cost management for AWS services
+{: .d-inline-block }
 
+Documentation
+{: .label .label-blue }
+
+[Overview of Amazon Q Developer's cost analysis capability](https://docs.aws.amazon.com/cost-management/latest/userguide/ce-q-overview.html)
+explains how you can ask questions about your AWS costs and receive answers in
+natural language, reflecting the actual costs of your AWS services.
 
 
 ## Security
