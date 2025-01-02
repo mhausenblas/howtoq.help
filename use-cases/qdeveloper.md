@@ -66,6 +66,10 @@ generation of a basic API in Python that customers can use to purchase airline
 tickets.
 
 ###  Troubleshooting
+{: .d-inline-block }
+
+Last modified: 2024-06-07
+{: .label .label-green }
 
 Brendan Jenkins, Jehu Gray, and Robert Stolz wrote about how to utilize Amazon Q
 Developer for troubleshooting. In [Five troubleshooting examples with Amazon
@@ -75,6 +79,14 @@ connection issues, resolve IAM Permission challenges, fix a Lambda function, and
 identify and resolve an S3 Replication rule configuration error.
 
 ### Developing testing strategies
+{: .d-inline-block }
+
+Last modified: 2024-07-29
+{: .label .label-green }
+
+[Testing your applications with Amazon Q Developer](https://aws.amazon.com/blogs/devops/testing-your-applications-with-amazon-q-developer/)
+demonstrates how to enhance unit testing by automating test scenarios and 
+generating test cases.
 
 ### Add and enrich documentation
 
@@ -83,14 +95,6 @@ identify and resolve an S3 Replication rule configuration error.
 
 If you are looking for use cases around AWS infrastructure management, Amazon Q
 Developer can be of assistance. Some concrete examples are:
-
-### Architecture review
-
-### Selecting an AWS service
-
-### Performance optimization
-
-### Cost management for AWS services
 
 ### Observability
 {: .d-inline-block }
@@ -102,6 +106,16 @@ Donnie Prakoso writes about an observability use case in
 [Investigate and remediate operational issues with Amazon Q Developer](https://aws.amazon.com/blogs/aws/investigate-and-remediate-operational-issues-with-amazon-q-developer/). The article shows how to use Amazon CloudWatch to guide you 
 through operational diagnostics and automate root cause analysis for problems 
 in your AWS workloads.
+
+### Architecture review
+
+### Selecting an AWS service
+
+### Performance optimization
+
+### Cost management for AWS services
+
+
 
 ## Security
 
