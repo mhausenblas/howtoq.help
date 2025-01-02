@@ -52,6 +52,7 @@ solve problems, generate content, and take actions on your behalf.
 Featured
 {: .label .label-yellow }
 
+- [Amazon Q Developer Tips: 25 tips to supercharge your development](https://dev.to/aws/amazon-q-developer-tips-25-tips-to-supercharge-your-development-2ffg)
 - [Simplify prompting for Amazon Q Developer](https://www.promptz.dev/)
 - [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
 - [Amazon Q Developer - Deep Dive](https://catalog.us-east-1.prod.workshops.aws/workshops/e2226eb6-f109-47ae-b2c5-f02bf73b7d0e/en-US)
