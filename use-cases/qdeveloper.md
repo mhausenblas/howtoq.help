@@ -88,8 +88,14 @@ Last modified: 2024-07-29
 demonstrates how to enhance unit testing by automating test scenarios and 
 generating test cases.
 
-### Add and enrich documentation
+### Enriching documentation
+{: .d-inline-block }
 
+Last modified: 2024-11-04
+{: .label .label-green }
+
+[Amazon Q Developer Meets a Mermaid - How to Supercharge Your Code Documentation](https://community.aws/content/2mG5gGYZRzq0IC6Ksz1vSvv6JER/amazon-q-meets-a-mermaid-how-to-supercharge-your-code-documentation?lang=en) by Hemish Soni shows how to
+derive an Mermaid-based flow chart from your code.
 
 ## Infrastructure
 
