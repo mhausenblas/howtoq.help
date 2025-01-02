@@ -45,6 +45,17 @@ Static Application Security Testing (SAST) and Software composition analysis
 (SCA), and also code quality issues including performance and compliance with
 AWS best practices.
 
+### Debugging and troubleshooting
+{: .d-inline-block }
+
+Last modified: 2024-07-19
+{: .label .label-green }
+
+Kasun de Silva's [De-Bugging with Amazon Q and Generative AI](https://community.aws/content/2jRYony3mzc0dLUW8z5bhlHTnCp/de-bugging-with-amazon-q-and-generative-ai)
+explains how to use Amazon Q Developer to debug an AWS Lambda Function that has
+a deadlock issue.
+
+
 ### Implementing APIs
 
 ### Support for serverless development
