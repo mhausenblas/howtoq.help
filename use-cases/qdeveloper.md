@@ -114,6 +114,14 @@ through operational diagnostics and automate root cause analysis for problems
 in your AWS workloads.
 
 ### Architecture review
+{: .d-inline-block }
+
+Last modified: 2024-01-29
+{: .label .label-green }
+
+Claudio Taverna published [I challenged Amazon Q with 3 cloud architecture questions](https://ctaverna.github.io/cloud-architecture-questions-amazon-q/)
+where they are asking different architectural questions, from high-level
+to cost evaluation.
 
 ### Selecting an AWS service
 
