@@ -60,16 +60,51 @@ permalink: /resources
 
 ### Blog posts
 
-- [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
-- [Enterprise Co-Pilot on AWS - Buy Amazon Q For Business or Build Your
-  Own?](https://agilevision.io/blog/enterprise-co-pilot-on-aws-buy-amazon-q-for-business-or-build-your-own/)
-- [First time with Amazon Q: Game app for
-  hackathon](https://community.aws/content/2qvCsAVUoyD4awdLEv8KeMIDAqr/first-time-with-amazon-q-game-app-for-hackathon)
-- [Can Amazon Q Developer draw diagrams. No but yes!](https://community.aws/content/2nHdJM5CsZFElsGarZGVF9k45mp/can-amazon-q-developer-drawn-diagram-no-but-yes) 
-- [Amazon Q Developer Tips: No.7 Generating better prompts](https://community.aws/content/2ptGK7gERvVEyV1n18aRjEmUWNi/amazon-q-developer-tips-no-7-generating-better-prompts)
-- [The Ultimate Cheat Sheet for Using Amazon Q Developer in Your IDE](https://community.aws/content/2eYoqeFRqaVnk900emsknDfzhfW/the-ultimate-cheat-sheet-for-using-amazon-q-developer-in-your-ide?lang=en)
-- [DIY personalization for Amazon Q Developer](https://it20.info/2024/10/diy-personalization-for-amazon-q-developer/)
-- [10 Tips on How to Effectively Prompt Amazon Q](https://dev.to/nat_ndlovu/10-tips-on-how-to-effectively-prompt-amazon-q-50k2)
+
+#### Building effective agents
+{: .d-inline-block }
+
+Last modified: 2024-12-19
+{: .label .label-green }
+
+[Building effective agents](https://www.anthropic.com/research/building-effective-agents)
+by the Anthropic research team shares learnings from building agents, and
+gives practical advice for developers on building effective agents.
+
+#### Enterprise Co-Pilot on AWS - Buy Amazon Q For Business or Build Your Own?
+{: .d-inline-block }
+
+Last modified: 2024-10-29
+{: .label .label-green }
+
+Amazon Q Business
+{: .label .label-red }
+
+AgileVision's [Enterprise Co-Pilot on AWS - Buy Amazon Q For Business or Build Your Own?](https://agilevision.io/blog/enterprise-co-pilot-on-aws-buy-amazon-q-for-business-or-build-your-own/) reports on a proof of concept.
+
+#### First time with Amazon Q: Game app for hackathon
+{: .d-inline-block }
+
+Last modified: 2024-10-29
+{: .label .label-green }
+
+Amazon Q Developer
+{: .label .label-purple }
+
+In [First time with Amazon Q: Game app for hackathon](https://community.aws/content/2qvCsAVUoyD4awdLEv8KeMIDAqr/first-time-with-amazon-q-game-app-for-hackathon)
+choong reports on their experience with Amazon Q Developer for game development.
+
+#### Others
+
+[Can Amazon Q Developer draw diagrams. No but yes!](https://community.aws/content/2nHdJM5CsZFElsGarZGVF9k45mp/can-amazon-q-developer-drawn-diagram-no-but-yes) 
+
+[Amazon Q Developer Tips: No.7 Generating better prompts](https://community.aws/content/2ptGK7gERvVEyV1n18aRjEmUWNi/amazon-q-developer-tips-no-7-generating-better-prompts)
+
+[The Ultimate Cheat Sheet for Using Amazon Q Developer in Your IDE](https://community.aws/content/2eYoqeFRqaVnk900emsknDfzhfW/the-ultimate-cheat-sheet-for-using-amazon-q-developer-in-your-ide?lang=en)
+
+[DIY personalization for Amazon Q Developer](https://it20.info/2024/10/diy-personalization-for-amazon-q-developer/)
+
+[10 Tips on How to Effectively Prompt Amazon Q](https://dev.to/nat_ndlovu/10-tips-on-how-to-effectively-prompt-amazon-q-50k2)
 
 ### Videos
 
