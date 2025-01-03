@@ -34,7 +34,25 @@ Vikram Venkataraman and Puneeth Komaragiri show how to use Amazon Q Business to
 build an application that helps reducing MTTI/MTTR, including integration with
 runbooks and AWS documentation.
 
-## Training assistance
+### Streamline operations
+{: .d-inline-block }
 
-## Resource planning
+Last modified: 2024-12-11
+{: .label .label-green }
 
+[How AWS sales uses Amazon Q Business for customer engagement](https://aws.amazon.com/blogs/machine-learning/how-aws-sales-uses-amazon-q-business-for-customer-engagement/)
+by Joe Travaglini, Jonathan Garcia, and Umesh Mohan explains how and why 
+AWS sales built an internally-facing conversational sales assistant based on
+Amazon Q Business.
+
+
+### Data insights
+{: .d-inline-block }
+
+Git repo
+{: .label .label-blue }
+
+The GitHub repo [aws-samples/data-insights-with-amazon-q-business](https://github.com/aws-samples/data-insights-with-amazon-q-business)
+has an example architecture enabling you to query structured data using Amazon Q Business.
+It also shows how to build out an application to query cost and usage data in
+Amazon Athena, using Amazon Q Business.
