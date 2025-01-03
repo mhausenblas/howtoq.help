@@ -60,7 +60,6 @@ permalink: /resources
 
 ### Blog posts
 
-
 #### Building effective agents
 {: .d-inline-block }
 
@@ -71,24 +70,24 @@ Last modified: 2024-12-19
 by the Anthropic research team shares learnings from building agents, and
 gives practical advice for developers on building effective agents.
 
-#### Enterprise Co-Pilot on AWS - Buy Amazon Q For Business or Build Your Own?
+#### Enterprise Co-Pilot on AWS
 {: .d-inline-block }
 
 Last modified: 2024-10-29
 {: .label .label-green }
 
-Amazon Q Business
+Q Business
 {: .label .label-red }
 
 AgileVision's [Enterprise Co-Pilot on AWS - Buy Amazon Q For Business or Build Your Own?](https://agilevision.io/blog/enterprise-co-pilot-on-aws-buy-amazon-q-for-business-or-build-your-own/) reports on a proof of concept.
 
-#### First time with Amazon Q: Game app for hackathon
+#### First time with Amazon Q
 {: .d-inline-block }
 
-Last modified: 2024-10-29
+Last modified: 2024-12-30
 {: .label .label-green }
 
-Amazon Q Developer
+Q Developer
 {: .label .label-purple }
 
 In [First time with Amazon Q: Game app for hackathon](https://community.aws/content/2qvCsAVUoyD4awdLEv8KeMIDAqr/first-time-with-amazon-q-game-app-for-hackathon)
