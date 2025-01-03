@@ -32,17 +32,16 @@ In [Getting Started with Amazon Q Developer agent for code transformation](https
 how to upgrade your Java 8 or 11 projects to Java 17, using the Amazon Q Developer
 agent for code transformation.
 
-### Code review and optimization
+### Code comprehension
 {: .d-inline-block }
 
-Documentation
-{: .label .label-blue }
+Last modified: 2024-08-09
+{: .label .label-green }
 
-[Reviewing code with Amazon Q Developer](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/code-reviews.html)
-explains how to review your code for security vulnerabilities, such as
-Static Application Security Testing (SAST) and Software composition analysis
-(SCA), and also code quality issues including performance and compliance with
-AWS best practices.
+[Code Clarity: Enhancing Code Understanding and Efficiency with Amazon Q Developer](https://aws.amazon.com/blogs/devops/code-security-scanning-with-amazon-q-developer/)
+by Jehu Gray, Folarin Alamu, Abiola Olanrewaju, and Damola Oluyemo explains how
+to simplify the process of understanding and explaining code in order to boost 
+productivity.
 
 ### Debugging code
 {: .d-inline-block }
@@ -132,15 +131,22 @@ Documentation
 explains how you can ask questions about your AWS costs and receive answers in
 natural language, reflecting the actual costs of your AWS services.
 
-
 ## Security
 
 Use cases in the security domain are another category of use cases. Let's have
 a closer look.
 
-### Security assessment
+### Scanning source code
+{: .d-inline-block }
 
-### Validating compliance
+Last modified: 2024-10-16
+{: .label .label-green }
+
+In [Code security scanning with Amazon Q Developer](https://aws.amazon.com/blogs/devops/code-security-scanning-with-amazon-q-developer/)
+Surabhi Tandon, Chandan Mishra, Zachary Patterson, and Pranav Garg explain how
+you can proactively identify and remove security vulnerabilities in your codebase.
+
+### Compliance validation
 
 ### IAM policy review
 
