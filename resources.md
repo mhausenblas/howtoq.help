@@ -157,7 +157,8 @@ shares how to effectively prompt Amazon Q Developer.
 ### Videos
 
 re:Invent 2024
-{: .label }
+{: .label .label-green }
+
 
 <div class="video-grid" markdown="1">
 
@@ -200,7 +201,7 @@ What’s new with Amazon Q Business (AIM237)
 </div>
 
 re:Invent 2023
-{: .label }
+{: .label .label-green }
 
 <div class="video-grid" markdown="1">
 
