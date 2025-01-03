@@ -28,13 +28,14 @@ For enhancing business operations, here are a few use cases:
 Last modified: 2024-12-03
 {: .label .label-green }
 
-In [Using Amazon Q Business to streamline your
-operations](https://aws.amazon.com/blogs/mt/aws-operations-assistant-using-amazon-q-for-business/)
+In [Using Amazon Q Business to streamline your operations](https://aws.amazon.com/blogs/mt/aws-operations-assistant-using-amazon-q-for-business/)
 Vikram Venkataraman and Puneeth Komaragiri show how to use Amazon Q Business to
 build an application that helps reducing MTTI/MTTR, including integration with
 runbooks and AWS documentation.
 
-### Streamline operations
+## Customer service
+
+### Improve customer engagement
 {: .d-inline-block }
 
 Last modified: 2024-12-11
@@ -45,8 +46,9 @@ by Joe Travaglini, Jonathan Garcia, and Umesh Mohan explains how and why
 AWS sales built an internally-facing conversational sales assistant based on
 Amazon Q Business.
 
+## Extract insights
 
-### Data insights
+### Cost and usage data insights
 {: .d-inline-block }
 
 Git repo
