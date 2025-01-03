@@ -70,11 +70,9 @@ Last modified: 2024-06-07
 {: .label .label-green }
 
 Brendan Jenkins, Jehu Gray, and Robert Stolz wrote about how to utilize Amazon Q
-Developer for troubleshooting. In [Five troubleshooting examples with Amazon
-Q](https://aws.amazon.com/blogs/devops/five-troubleshooting-examples-with-amazon-q/)
-they show how to understand EC2 SSH connection issues, dive deep into VPC network
-connection issues, resolve IAM Permission challenges, fix a Lambda function, and
-identify and resolve an S3 Replication rule configuration error.
+Developer for troubleshooting. In [Five troubleshooting examples with Amazon Q](https://aws.amazon.com/blogs/devops/five-troubleshooting-examples-with-amazon-q/)
+they walk you through troubleshooting scenarios from fixing EC2 SSH connection issues
+to identifying and resolving an S3 Replication rule configuration error.
 
 ### Developing testing strategies
 {: .d-inline-block }
@@ -146,8 +144,22 @@ In [Code security scanning with Amazon Q Developer](https://aws.amazon.com/blogs
 Surabhi Tandon, Chandan Mishra, Zachary Patterson, and Pranav Garg explain how
 you can proactively identify and remove security vulnerabilities in your codebase.
 
-### Compliance validation
+### Fixing IAM permissions
+{: .d-inline-block }
 
-### IAM policy review
+Last modified: 2024-06-07
+{: .label .label-green }
 
-### Security monitoring
+[Five troubleshooting examples with Amazon Q](https://aws.amazon.com/blogs/devops/five-troubleshooting-examples-with-amazon-q/)
+by Brendan Jenkins, Jehu Gray, and Robert Stolz explains how to resolve an 
+IAM Permission issue.
+
+### Improve cloud security posture
+{: .d-inline-block }
+
+Last modified: 2024-11-14
+{: .label .label-green }
+
+[Introducing new Amazon Q Developer plugin for Wiz](https://www.wiz.io/blog/amazon-q-developer-plugin)
+describes how developers can ask questions about the security posture in AWS using 
+human-language and gain insights into risks in their environment.
