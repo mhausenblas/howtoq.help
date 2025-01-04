@@ -146,6 +146,23 @@ Q Developer
 
 <div class="video-item" markdown="1">
 [![Building Terraform Projects with Amazon Q Developer](https://img.youtube.com/vi/JSjOUX3zVg8/hqdefault.jpg "Building Terraform Projects with Amazon Q Developer")](https://www.youtube.com/watch?v=JSjOUX3zVg8)
-Kevon Mayers:Building Terraform Projects with Amazon Q Developer
+Kevon Mayers: Building Terraform Projects with Amazon Q Developer
 {: .text-grey-dk-000 }
 </div>
+
+### Nana Janashia's Amazon Q tutorial
+{: .d-inline-block }
+
+2024-04-30
+{: .label .label-green }
+
+Q Developer
+{: .label .label-purple }
+
+<div class="video-item" markdown="1">
+[![Amazon Q - Build on AWS like a Pro using Amazon's new AI coding assistant](https://img.youtube.com/vi/cA8KrHFm4So/hqdefault.jpg "Amazon Q - Build on AWS like a Pro using Amazon's new AI coding assistant")](https://www.youtube.com/watch?v=cA8KrHFm4So)
+Nana Janashia: Amazon Q - Build on AWS like a Pro using Amazon's new AI coding assistant
+{: .text-grey-dk-000 }
+</div>
+
+
