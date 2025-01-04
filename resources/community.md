@@ -120,10 +120,10 @@ shares how to effectively prompt Amazon Q Developer.
 
 ## Videos
 
-### Why Amazon Q Developer Could Be the Coolest Tool in Cloud Tech Yet
+### Elias Khnaser and Rory Richardson on Amazon Q
 {: .d-inline-block }
 
-Uploaded: 2024-12-05
+2024-12-05
 {: .label .label-green }
 
 Q Developer
@@ -131,7 +131,7 @@ Q Developer
 
 <div class="video-item" markdown="1">
 [![Why Amazon Q Developer Could Be the Coolest Tool in Cloud Tech Yet](https://img.youtube.com/vi/SMoVp2qHWPg/hqdefault.jpg "Why Amazon Q Developer Could Be the Coolest Tool in Cloud Tech Yet")](https://www.youtube.com/watch?v=SMoVp2qHWPg)
-Why Amazon Q Developer Could Be the Coolest Tool in Cloud Tech Yet
+Elias Khnaser and Rory Richardson: Why Amazon Q Developer Could Be the Coolest Tool in Cloud Tech Yet
 {: .text-grey-dk-000 }
 </div>
 
