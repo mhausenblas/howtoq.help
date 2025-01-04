@@ -135,4 +135,17 @@ Elias Khnaser and Rory Richardson: Why Amazon Q Developer Could Be the Coolest T
 {: .text-grey-dk-000 }
 </div>
 
+### Kevon Mayers Amazon Q for Terraform
+{: .d-inline-block }
 
+2024-05-24
+{: .label .label-green }
+
+Q Developer
+{: .label .label-purple }
+
+<div class="video-item" markdown="1">
+[![Building Terraform Projects with Amazon Q Developer](https://img.youtube.com/vi/JSjOUX3zVg8/hqdefault.jpg "Building Terraform Projects with Amazon Q Developer")](https://www.youtube.com/watch?v=JSjOUX3zVg8)
+Kevon Mayers:Building Terraform Projects with Amazon Q Developer
+{: .text-grey-dk-000 }
+</div>
