@@ -117,3 +117,22 @@ Q Developer
 Nat Ndlovu's [10 Tips on How to Effectively Prompt Amazon Q](https://dev.to/nat_ndlovu/10-tips-on-how-to-effectively-prompt-amazon-q-50k2)
 shares how to effectively prompt Amazon Q Developer.
 
+
+## Videos
+
+### Why Amazon Q Developer Could Be the Coolest Tool in Cloud Tech Yet
+{: .d-inline-block }
+
+Uploaded: 2024-12-05
+{: .label .label-green }
+
+Q Developer
+{: .label .label-purple }
+
+<div class="video-item" markdown="1">
+[![Why Amazon Q Developer Could Be the Coolest Tool in Cloud Tech Yet](https://img.youtube.com/vi/SMoVp2qHWPg/hqdefault.jpg "Why Amazon Q Developer Could Be the Coolest Tool in Cloud Tech Yet")](https://www.youtube.com/watch?v=SMoVp2qHWPg)
+Why Amazon Q Developer Could Be the Coolest Tool in Cloud Tech Yet
+{: .text-grey-dk-000 }
+</div>
+
+
