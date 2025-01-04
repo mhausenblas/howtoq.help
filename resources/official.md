@@ -1,12 +1,12 @@
 ---
-title: Resources
+title: Official
 layout: default
-nav_order: 4
-description: "How to Q: Resources"
-permalink: /resources
+parent: Resources
+nav_order: 1
+description: "How to Q: Official Resources"
 ---
 
-# Resources
+# Official Resources
 {: .no_toc }
 
 <details open markdown="block">
@@ -18,31 +18,29 @@ permalink: /resources
 {:toc}
 </details>
 
-## Official resources
-
 | [Amazon Q Home](https://aws.amazon.com/q/) | [Amazon Q Docs](https://docs.aws.amazon.com/amazonq/) |
 | [Amazon Q community](https://community.aws/amazon-q) | [Amazon Q pricing plans](https://aws.amazon.com/q/pricing/) |
 
 
-### Amazon Q Developer
+## Amazon Q Developer
 
 [![Amazon Q Developer](assets/images/amazon-q-developer.png)](https://aws.amazon.com/q/developer/)
 
 - [Amazon Q User Guide: Code examples](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/inline-suggestions-code-examples.html)
 - [Amazon Q Developer change log](https://aws.amazon.com/developer/generative-ai/amazon-q/change-log/)
 
-### Amazon Q Business
+## Amazon Q Business
 
 [![Amazon Q Business](assets/images/amazon-q-business.png)](https://aws.amazon.com/q/business/)
 
 - [Getting started with Amazon Q Business](https://docs.aws.amazon.com/amazonq/latest/qbusiness-ug/getting-started.html)
 
 
-### AWS Solutions Library
+## AWS Solutions Library
 
 - [Guidance for Creating a Customized Coding Companion with Amazon Q Developer](https://aws.amazon.com/solutions/guidance/creating-a-customized-coding-companion-with-amazon-q-developer/)
 
-### Tooling & workshops
+## Tooling & workshops
 
 - Workshop: [Amazon Q Developer - Deep Dive](https://catalog.us-east-1.prod.workshops.aws/workshops/e2226eb6-f109-47ae-b2c5-f02bf73b7d0e/en-US)
 - GitHub repos:
@@ -52,109 +50,7 @@ permalink: /resources
   a VS Code extension for connecting your IDE to Amazon Q and leveraging generative
   AI to accelerate your software development
 
-## Community resources
-
-### Tooling & workshops
-
-- [Simplify prompting for Amazon Q Developer](https://www.promptz.dev/)
-
-### Blog posts
-
-#### Building effective agents
-{: .d-inline-block }
-
-Last modified: 2024-12-19
-{: .label .label-green }
-
-[Building effective agents](https://www.anthropic.com/research/building-effective-agents)
-by the Anthropic research team shares learnings from building agents, and
-gives practical advice for developers on building effective agents.
-
-#### Enterprise Co-Pilot on AWS
-{: .d-inline-block }
-
-Last modified: 2024-10-29
-{: .label .label-green }
-
-Q Business
-{: .label .label-red }
-
-AgileVision's [Enterprise Co-Pilot on AWS - Buy Amazon Q For Business or Build Your Own?](https://agilevision.io/blog/enterprise-co-pilot-on-aws-buy-amazon-q-for-business-or-build-your-own/) reports on a proof of concept.
-
-#### First time with Amazon Q
-{: .d-inline-block }
-
-Last modified: 2024-12-30
-{: .label .label-green }
-
-Q Developer
-{: .label .label-purple }
-
-In [First time with Amazon Q: Game app for hackathon](https://community.aws/content/2qvCsAVUoyD4awdLEv8KeMIDAqr/first-time-with-amazon-q-game-app-for-hackathon)
-@choong reports on their experience with Amazon Q Developer for game development.
-
-#### Generating diagrams
-{: .d-inline-block }
-
-Last modified: 2024-10-11
-{: .label .label-green }
-
-Q Developer
-{: .label .label-purple }
-
-Jean-Francois Landreau wrote [Can Amazon Q Developer draw diagrams. No but yes!](https://community.aws/content/2nHdJM5CsZFElsGarZGVF9k45mp/can-amazon-q-developer-drawn-diagram-no-but-yes) where they show how to generate architecture diagrams in
-drawio format.
-
-#### Generating diagrams
-{: .d-inline-block }
-
-Last modified: 2024-12-07
-{: .label .label-green }
-
-Q Developer
-{: .label .label-purple }
-
-[Amazon Q Developer Tips: No.7 Generating better prompts](https://community.aws/content/2ptGK7gERvVEyV1n18aRjEmUWNi/amazon-q-developer-tips-no-7-generating-better-prompts)
-by Ricardo Sueiras is a gold mine for prompting.
-
-#### Cheat sheet
-{: .d-inline-block }
-
-Last modified: 2024-04-30
-{: .label .label-green }
-
-Q Developer
-{: .label .label-purple }
-
-Brooke Jamieson put together [The Ultimate Cheat Sheet for Using Amazon Q Developer in Your IDE](https://community.aws/content/2eYoqeFRqaVnk900emsknDfzhfW/the-ultimate-cheat-sheet-for-using-amazon-q-developer-in-your-ide?lang=en).
-
-#### Personalization
-{: .d-inline-block }
-
-Last modified: 2024-09-30
-{: .label .label-green }
-
-Q Developer
-{: .label .label-purple }
-
-In [DIY personalization for Amazon Q Developer](https://it20.info/2024/10/diy-personalization-for-amazon-q-developer/)
-Massimo Re Ferrè demonstrates how you can fit Amazon Q Developer to your exact
-needs.
-
-#### Generating diagrams
-{: .d-inline-block }
-
-Last modified: 2024-11-25
-{: .label .label-green }
-
-Q Developer
-{: .label .label-purple }
-
-Nat Ndlovu's [10 Tips on How to Effectively Prompt Amazon Q](https://dev.to/nat_ndlovu/10-tips-on-how-to-effectively-prompt-amazon-q-50k2)
-shares how to effectively prompt Amazon Q Developer.
-
-
-### Videos
+## Videos
 
 re:Invent 2024
 {: .label .label-green }
