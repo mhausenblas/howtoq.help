@@ -24,14 +24,14 @@ description: "How to Q: Official Resources"
 
 ## Amazon Q Developer
 
-[![Amazon Q Developer](assets/images/amazon-q-developer.png)](https://aws.amazon.com/q/developer/)
+[![Amazon Q Developer](../assets/images/amazon-q-developer.png)](https://aws.amazon.com/q/developer/)
 
 - [Amazon Q User Guide: Code examples](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/inline-suggestions-code-examples.html)
 - [Amazon Q Developer change log](https://aws.amazon.com/developer/generative-ai/amazon-q/change-log/)
 
 ## Amazon Q Business
 
-[![Amazon Q Business](assets/images/amazon-q-business.png)](https://aws.amazon.com/q/business/)
+[![Amazon Q Business](../assets/images/amazon-q-business.png)](https://aws.amazon.com/q/business/)
 
 - [Getting started with Amazon Q Business](https://docs.aws.amazon.com/amazonq/latest/qbusiness-ug/getting-started.html)
 
