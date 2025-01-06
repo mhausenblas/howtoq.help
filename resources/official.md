@@ -97,10 +97,18 @@ Implementing Amazon Q Developer: Lessons from the field (DEV310)
 </div>
 
 <div class="video-item" markdown="1">
+[![Code with a generative AI–powered assistant: Amazon Q Developer (TNC110)](https://img.youtube.com/vi/IOYYSMh4cu8/hqdefault.jpg)](https://www.youtube.com/watch?v=IOYYSMh4cu8)
+Code with a generative AI–powered assistant: Amazon Q Developer (TNC110)
+{: .text-grey-dk-000 }
+</div>
+
+
+<div class="video-item" markdown="1">
 [![What’s new with Amazon Q Business (AIM237)](https://img.youtube.com/vi/ytaJPyRCYlw/hqdefault.jpg)](https://www.youtube.com/watch?v=ytaJPyRCYlw)
 What’s new with Amazon Q Business (AIM237)
 {: .text-grey-dk-000 }
 </div>
+
 
 </div>
 
