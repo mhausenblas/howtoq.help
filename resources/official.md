@@ -67,6 +67,12 @@ Accelerate application maintenance and upgrades with generative AI (DOP209)
 </div>
 
 <div class="video-item" markdown="1">
+[![Amazon Q Developer, Amazon Inspector & AI remediation for secure SDLC (DOP213)](https://img.youtube.com/vi/D7l-XYH78MI/hqdefault.jpg)](https://www.youtube.com/watch?v=D7l-XYH78MI)
+Amazon Q Developer, Amazon Inspector & AI remediation for secure SDLC (DOP213)
+{: .text-grey-dk-000 }
+</div>
+
+<div class="video-item" markdown="1">
 [![Modernize mainframe applications faster using Amazon Q Developer (DOP221)](https://img.youtube.com/vi/pSi0XtYfY4o/hqdefault.jpg)](https://www.youtube.com/watch?v=pSi0XtYfY4o)
 Modernize mainframe applications faster using Amazon Q Developer (DOP221)
 {: .text-grey-dk-000 }
