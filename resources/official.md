@@ -42,7 +42,9 @@ description: "How to Q: Official Resources"
 
 ## Tooling & workshops
 
-- Workshop: [Amazon Q Developer - Deep Dive](https://catalog.us-east-1.prod.workshops.aws/workshops/e2226eb6-f109-47ae-b2c5-f02bf73b7d0e/en-US)
+- Workshops:
+  - [Amazon Q Developer - Building the Q-Words App](https://catalog.workshops.aws/qwords/en-US)
+  - [Amazon Q Developer - Deep Dive](https://catalog.us-east-1.prod.workshops.aws/workshops/e2226eb6-f109-47ae-b2c5-f02bf73b7d0e/en-US)
 - GitHub repos:
   - [aws/mynah-ui](https://github.com/aws/mynah-ui), a data & event driven chat 
   interface library for browsers and webviews
