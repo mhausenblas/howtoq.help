@@ -73,6 +73,12 @@ Modernize mainframe applications faster using Amazon Q Developer (DOP221)
 </div>
 
 <div class="video-item" markdown="1">
+[![What’s new with Amazon Q Developer agents (DOP223)](https://img.youtube.com/vi/9XcgkBkIumc/hqdefault.jpg)](https://www.youtube.com/watch?v=9XcgkBkIumc)
+What’s new with Amazon Q Developer agents (DOP223)
+{: .text-grey-dk-000 }
+</div>
+
+<div class="video-item" markdown="1">
 [![Build Amazon Q apps to scale and drive community engagement (DEV201)](https://img.youtube.com/vi/A9wFDUH0vBY/hqdefault.jpg)](https://www.youtube.com/watch?v=A9wFDUH0vBY)
 Build Amazon Q apps to scale and drive community engagement (DEV201)
 {: .text-grey-dk-000 }
