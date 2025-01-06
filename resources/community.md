@@ -165,4 +165,19 @@ Nana Janashia: Amazon Q - Build on AWS like a Pro using Amazon's new AI coding a
 {: .text-grey-dk-000 }
 </div>
 
+### Quick Review
+{: .d-inline-block }
+
+2023-12-03
+{: .label .label-green }
+
+Q Business
+{: .label .label-red }
+
+<div class="video-item" markdown="1">
+[![Amazon Q - Quick Review](https://img.youtube.com/vi/dd-xdRZfwLc/hqdefault.jpg "Amazon Q - Quick Review")](https://www.youtube.com/watch?v=dd-xdRZfwLc)
+Scale-Up SaaS: Amazon Q - Quick Review (AWS Generative AI Assistant for Business)
+{: .text-grey-dk-000 }
+</div>
+
 
