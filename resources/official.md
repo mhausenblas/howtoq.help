@@ -35,10 +35,44 @@ description: "How to Q: Official Resources"
 
 - [Getting started with Amazon Q Business](https://docs.aws.amazon.com/amazonq/latest/qbusiness-ug/getting-started.html)
 
+## Solutions
 
-## AWS Solutions Library
+### AWS Solutions Library
+{: .d-inline-block }
 
-- [Guidance for Creating a Customized Coding Companion with Amazon Q Developer](https://aws.amazon.com/solutions/guidance/creating-a-customized-coding-companion-with-amazon-q-developer/)
+Q Developer
+{: .label .label-purple }
+
+[Guidance for Creating a Customized Coding Companion with Amazon Q Developer](https://aws.amazon.com/solutions/guidance/creating-a-customized-coding-companion-with-amazon-q-developer/) demonstrates how to aggregate public, 
+open-source code repositories into a central location to customize Amazon Q 
+Developer.
+
+### Introducing new agents
+{: .d-inline-block }
+
+Last modified: 2024-12-03
+{: .label .label-green }
+
+Q Developer
+{: .label .label-purple }
+
+[New Amazon Q Developer agent capabilities include generating documentation, code reviews, and unit tests](https://aws.amazon.com/blogs/aws/new-amazon-q-developer-agent-capabilities-include-generating-documentation-code-reviews-and-unit-tests/) 
+by Channy Yun introduces the new agents `/doc`, `/review`, and `/test`.
+
+#### Agents for software development
+{: .d-inline-block }
+
+Last modified: 2024-09-16
+{: .label .label-green }
+
+Q Developer
+{: .label .label-purple }
+
+In [Reinventing the Amazon Q Developer agent for software development](https://aws.amazon.com/blogs/devops/reinventing-the-amazon-q-developer-agent-for-software-development/) Laurent Callot, Tim Esler, and Giovanni Zappella demonstrate
+how to use the Amazon Q Developer agents.
+
+
+
 
 ## Tooling & workshops
 
