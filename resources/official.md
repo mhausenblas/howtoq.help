@@ -59,7 +59,7 @@ Q Developer
 [New Amazon Q Developer agent capabilities include generating documentation, code reviews, and unit tests](https://aws.amazon.com/blogs/aws/new-amazon-q-developer-agent-capabilities-include-generating-documentation-code-reviews-and-unit-tests/) 
 by Channy Yun introduces the new agents `/doc`, `/review`, and `/test`.
 
-#### Agents for software development
+### Agents for software development
 {: .d-inline-block }
 
 Last modified: 2024-09-16
