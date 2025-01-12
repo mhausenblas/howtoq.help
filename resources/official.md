@@ -88,6 +88,23 @@ how to use the Amazon Q Developer agents.
 
 ## Videos
 
+### VMware workload migration
+{: .d-inline-block }
+
+2025-01-11
+{: .label .label-green }
+
+Q Developer
+{: .label .label-purple }
+
+<div class="video-item" markdown="1">
+[![Demo - Amazon Q Developer for VMware workload migration and modernization](https://img.youtube.com/vi/dd-xdRZfwLc/hqdefault.jpg "Demo - Amazon Q Developer for VMware workload migration and modernization")](https://www.youtube.com/watch?v=dd-xdRZfwLc)
+Demo - Amazon Q Developer for VMware workload migration and modernization | Amazon Web Services
+{: .text-grey-dk-000 }
+</div>
+
+### Events
+
 re:Invent 2024
 {: .label .label-green }
 
@@ -176,3 +193,6 @@ Realizing the developer productivity benefits of Amazon CodeWhisperer (DOP202)
 </div>
 
 </div>
+
+
+
