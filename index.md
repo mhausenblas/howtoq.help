@@ -14,9 +14,9 @@ for _How_ and _Why_ to use Amazon Q.
 Recent additions
 {: .label .label-yellow }
 
+- [2025-01-12] Updated [community resources](/resources/community)
 - [2025-01-08] New blog posts via [official resources](/resources/official)
 - [2025-01-02] Expanded [use cases](/use-cases)
-- [2024-12-30] More [resources](/resources) added
 
 To get an overview, check out this video:
 
