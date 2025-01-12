@@ -107,6 +107,12 @@ Amazon Q Developer, Amazon Inspector & AI remediation for secure SDLC (DOP213)
 </div>
 
 <div class="video-item" markdown="1">
+[![Next-generation CDK development with Amazon Q Developer (DOP215)](https://img.youtube.com/vi/WEYuvh3YqkI/hqdefault.jpg)](https://www.youtube.com/watch?v=WEYuvh3YqkI)
+Next-generation CDK development with Amazon Q Developer (DOP215)
+{: .text-grey-dk-000 }
+</div>
+
+<div class="video-item" markdown="1">
 [![Modernize mainframe applications faster using Amazon Q Developer (DOP221)](https://img.youtube.com/vi/pSi0XtYfY4o/hqdefault.jpg)](https://www.youtube.com/watch?v=pSi0XtYfY4o)
 Modernize mainframe applications faster using Amazon Q Developer (DOP221)
 {: .text-grey-dk-000 }
