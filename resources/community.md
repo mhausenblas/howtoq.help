@@ -34,6 +34,19 @@ Last modified: 2024-12-19
 by the Anthropic research team shares learnings from building agents, and
 gives practical advice for developers on building effective agents.
 
+### From diagram to code
+{: .d-inline-block }
+
+Last modified: 2024-11-03
+{: .label .label-green }
+
+Q Developer
+{: .label .label-purple }
+
+In [From Diagram to Code with Amazon Q Developer](https://dev.to/welcloud-io/from-diagram-to-code-with-amazon-q-developer-2da4)
+Olivier Lemaitre demonstrates how to use Amazon Q Developer to derive a diagram
+from code and how to generate an application from a diagram.
+
 ### Enterprise Co-Pilot on AWS
 {: .d-inline-block }
 
@@ -69,7 +82,7 @@ Q Developer
 Jean-Francois Landreau wrote [Can Amazon Q Developer draw diagrams. No but yes!](https://community.aws/content/2nHdJM5CsZFElsGarZGVF9k45mp/can-amazon-q-developer-drawn-diagram-no-but-yes) where they show how to generate architecture diagrams in
 drawio format.
 
-### Generating diagrams
+### Improving prompts
 {: .d-inline-block }
 
 Last modified: 2024-12-07
@@ -78,8 +91,7 @@ Last modified: 2024-12-07
 Q Developer
 {: .label .label-purple }
 
-[Amazon Q Developer Tips: No.7 Generating better prompts](https://community.aws/content/2ptGK7gERvVEyV1n18aRjEmUWNi/amazon-q-developer-tips-no-7-generating-better-prompts)
-by Ricardo Sueiras is a gold mine for prompting.
+[Amazon Q Developer Tips: No.7 Generating better prompts](https://community.aws/content/2ptGK7gERvVEyV1n18aRjEmUWNi/amazon-q-developer-tips-no-7-generating-better-prompts) by Ricardo Sueiras is a gold mine for prompting.
 
 ### Cheat sheet
 {: .d-inline-block }
