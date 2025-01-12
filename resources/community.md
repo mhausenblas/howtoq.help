@@ -117,7 +117,7 @@ In [DIY personalization for Amazon Q Developer](https://it20.info/2024/10/diy-pe
 Massimo Re Ferrè demonstrates how you can fit Amazon Q Developer to your exact
 needs.
 
-### Generating diagrams
+### Effectively prompting
 {: .d-inline-block }
 
 Last modified: 2024-11-25
