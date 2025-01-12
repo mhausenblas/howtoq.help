@@ -71,9 +71,6 @@ Q Developer
 In [Reinventing the Amazon Q Developer agent for software development](https://aws.amazon.com/blogs/devops/reinventing-the-amazon-q-developer-agent-for-software-development/) Laurent Callot, Tim Esler, and Giovanni Zappella demonstrate
 how to use the Amazon Q Developer agents.
 
-
-
-
 ## Tooling & workshops
 
 - Workshops:
@@ -98,7 +95,7 @@ Q Developer
 {: .label .label-purple }
 
 <div class="video-item" markdown="1">
-[![Demo - Amazon Q Developer for VMware workload migration and modernization](https://img.youtube.com/vi/dd-xdRZfwLc/hqdefault.jpg "Demo - Amazon Q Developer for VMware workload migration and modernization")](https://www.youtube.com/watch?v=dd-xdRZfwLc)
+[![Demo - Amazon Q Developer for VMware workload migration and modernization](https://img.youtube.com/vi/EnNLStXcuo4/hqdefault.jpg "Demo - Amazon Q Developer for VMware workload migration and modernization")](https://www.youtube.com/watch?v=EnNLStXcuo4)
 Demo - Amazon Q Developer for VMware workload migration and modernization | Amazon Web Services
 {: .text-grey-dk-000 }
 </div>
